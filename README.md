@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="left"> Olá, eu sou o Crystian Schlemper </h1>
+<div align="left">
+- Estudando C && Ruby; </p>
+</div>
 
-<!--
-**CrysFS/CrysFS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrysFS7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CrysFS&theme=dracula&line_height=40&hide=css"/> </a>
+</div></p>
+ 
+ ## Skills
+<div style="display: inline_block"><br>
+  <img height="40" align="center" alt="CrysFS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="CrysFS-c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
-Here are some ideas to get you started:
+</div>
+  
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto: crystianschlemper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ </br>
+</br>
+ 
+  ![Snake animation](https://github.com/JoaoDetore7/JoaoDetore7/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+

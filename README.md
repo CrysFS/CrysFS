@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrysFS7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> </a>
+  <a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=CrysFS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/> </a>
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CrysFS&theme=dracula&line_height=40&hide=css"/> </a>
 </div></p>
  
